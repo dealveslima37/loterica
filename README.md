@@ -1,3 +1,3 @@
 # Programa Loterica
 
-programa que solicita quantos jogos o usuário deseja fazer e retornar jogos completos.
+Programa que pergunta quantos jogos da mega sena o usuário irá fazer e retorna o número de jogos preenhido.
